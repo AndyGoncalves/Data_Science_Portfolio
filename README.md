@@ -16,17 +16,18 @@
 * organization of the course structure; Python libraries: Numpy; Pandas; Matplolib; Seaborn.
   
 **Undergraduate researcher | UFMG |  Pronoturno Scholarship (May 2015 - Jul 2018)**
-* monitoring: International Political Economy
+* monitoring:
+    > International Political Economy |
 * extension:
-    > Ritoriki (awarded): creator and fundraiser -  public speaking training.
-    > solidarity economy fair:  translation of product names and operational assistance
-    > cultural cafe: creator and host - exchange students sharing cultural aspect
+    > Ritoriki (awarded): creator and fundraiser of the public speaking training | 
+    > solidarity economy fair: translation of product names and operational assistance | 
+    > cultural cafe: creator and host - exchange students sharing cultural aspect |
 * research:
-    > culture economy
-    > Chinese economy
-    > export of minerals: Brazil to China
-    > energy auctions in Brazil (by China)
+    > culture economy |
+    > Chinese economy |
+    > export of minerals: Brazil to China |
+    > energy auctions in Brazil (by China) |
 * Confucius Institute intern
-    > HSK1
+    > HSK1 | intermediate mandarin course |Chinese Bridge
 
 ### Projects
