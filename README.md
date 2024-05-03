@@ -4,8 +4,10 @@
 
 ### Education
 
-*Lato sensu (specialization), Data Science and Big Data | PUC | Pontifical Catholic University of Minas Gerais (Present)**
-*B.A., International Economic Relations | UFMG | Federal University of Minas Gerais (May 2022)**
+* Lato sensu (specialization), Data Science and Big Data | PUC | Pontifical Catholic University of Minas Gerais (Present)
+* B.A., International Economic Relations | UFMG | Federal University of Minas Gerais (May 2022)
+* Data Science scholarship - Americanas Futuro Polo Tech (May 2023)
+* Data Science and Machine Learning (professional specialization) (Dec 2022)
 
 ### Work Experience
 
