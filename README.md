@@ -1,6 +1,6 @@
 # Data_Science_Portfolio
 
-# Technical Skills: Python, R, SQL, Statistics, PowerBI, LookStudio, AWS, Oracle
+**Technical Skills: Python, R, SQL, Statistics, PowerBI, LookStudio, AWS, Oracle**
 
 ### Education
 Lato sensu (specialization), Data Science and Big Data | PUC | Pontifical Catholic University of Minas Gerais (Present)
